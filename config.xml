@@ -9,10 +9,9 @@
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
-    <preference name="splash-screen-duration" value="8000" />
     <preference name="auto-hide-splash-screen" value="false" /> 
     <preference name="AutoHideSplashScreen" value="false" /> 
-    <preference name="SplashScreenDelay" value="15000" /> 
+    <preference name="SplashScreenDelay" value="12000" /> 
 
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="org.apache.cordova.camera" />
